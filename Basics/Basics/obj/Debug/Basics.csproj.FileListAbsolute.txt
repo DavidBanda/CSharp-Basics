@@ -1,0 +1,6 @@
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/bin/Debug/Basics.exe
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/bin/Debug/Basics.pdb
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/obj/Debug/Basics.csprojAssemblyReference.cache
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/obj/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/obj/Debug/Basics.exe
+/Users/davidbanda/Coding/CSharp-Basics/Basics/Basics/obj/Debug/Basics.pdb
