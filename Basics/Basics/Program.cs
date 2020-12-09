@@ -14,6 +14,13 @@ namespace Basics
             int[] numbers = { 1, 2, 3 };
             string[] friends = new string[4];
             friends[0] = "David";
+
+            int[,] matrix =
+            {
+                { 1, 2, 3 },
+                { 2, 3, 4 },
+                { 5, 6, 7 },
+            };
           
             Console.WriteLine($"Hol{grade} {characterName}, de {characterAge} años");
             Console.WriteLine(friends);
@@ -27,6 +34,20 @@ namespace Basics
             }
 
             Console.WriteLine(DayName(2));
+
+            Console.WriteLine($"Valor 1 de matriz: {matrix[0, 0]}, Valor 2 de la matriz: {matrix[1, 0]}");
+
+            //SumTwoNumbers();
+
+            Book book1 = new Book("I, robot", "Isaac Asimov", 380);
+            book1.Genre = "Drama";
+            Console.WriteLine(book1.author);
+            Console.WriteLine(book1.Genre);
+            Console.WriteLine(Book.SayHiAgain());
+
+            Cat cat1 = new Cat("Molly", 1);
+            Console.WriteLine(cat1.Name);
+            Console.WriteLine(cat1.Speak());
         }
 
         public static string SayHi(string user)
@@ -85,6 +106,23 @@ namespace Basics
             }
 
             return dayName;
+        }
+
+        public static void SumTwoNumbers()
+        {
+            try
+            {
+                Console.Write("Ingresa un numero: ");
+                int firstNum = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Ingresa un numero: ");
+                int secondNum = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine($"El resultado es: {firstNum/secondNum}");
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
