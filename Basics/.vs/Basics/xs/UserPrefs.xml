@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{9D2132B4-CF31-4B4C-AFA1-A876AE8B8F19}|Default">
   <MonoDevelop.Ide.ItemProperties.Basics PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Basics/Cat.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Basics/Book.cs">
     <Files>
-      <File FileName="Basics/Program.cs" Line="44" Column="45" />
+      <File FileName="Basics/Program.cs" Line="13" Column="30" />
       <File FileName="Basics/Book.cs" Line="33" Column="35" />
-      <File FileName="Basics/Pet.cs" Line="1" Column="14" />
-      <File FileName="Basics/Cat.cs" Line="4" Column="27" />
+      <File FileName="Basics/Pet.cs" />
+      <File FileName="Basics/Cat.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Basics" expanded="True">
             <Node name="Basics" expanded="True">
-              <Node name="Cat.cs" selected="True" />
+              <Node name="Book.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
