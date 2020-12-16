@@ -25,6 +25,9 @@ namespace BookListRazor.Migrations
                     b.Property<string>("Author")
                         .HasColumnType("text");
 
+                    b.Property<string>("ISBN")
+                        .HasColumnType("text");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("text");
