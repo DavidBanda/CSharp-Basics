@@ -416,3 +416,4 @@
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.dll
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.pdb
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.genruntimeconfig.cache
+/Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.csprojAssemblyReference.cache
