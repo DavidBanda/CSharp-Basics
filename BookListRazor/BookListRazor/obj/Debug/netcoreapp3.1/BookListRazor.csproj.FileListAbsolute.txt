@@ -402,6 +402,7 @@
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Create.cshtml.g.cs
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Edit.cshtml.g.cs
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Index.cshtml.g.cs
+/Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Upsert.cshtml.g.cs
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
@@ -416,4 +417,3 @@
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.dll
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.pdb
 /Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.genruntimeconfig.cache
-/Users/davidbanda/Coding/CSharp-Basics/BookListRazor/BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.csprojAssemblyReference.cache

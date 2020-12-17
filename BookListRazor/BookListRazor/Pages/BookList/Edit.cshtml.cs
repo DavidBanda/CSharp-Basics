@@ -41,6 +41,5 @@ namespace BookListRazor.Pages.BookList
             return RedirectToPage();
   
         }
-
     }
 }
