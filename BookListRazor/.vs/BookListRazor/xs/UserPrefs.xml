@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{2BD14790-7C26-462C-91FB-17373FC63EAA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Upsert.cshtml.cs">
     <Files>
-      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml" Line="44" Column="105" />
-      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml.cs" Line="18" Column="22" />
-      <File FileName="BookListRazor/wwwroot/js/bookList.js" Line="22" Column="50" />
-      <File FileName="BookListRazor/Pages/BookList/Index.cshtml" Line="10" Column="28" />
+      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml" Line="17" Column="52" />
+      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml.cs" Line="52" Column="37" />
+      <File FileName="BookListRazor/wwwroot/js/bookList.js" Line="30" Column="33" />
+      <File FileName="BookListRazor/Pages/BookList/Index.cshtml" Line="1" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,12 +12,17 @@
           <Node name="BookListRazor" expanded="True">
             <Node name="BookListRazor" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BookList" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                  <Node name="Upsert.cshtml" expanded="True">
+                    <Node name="Upsert.cshtml.cs" selected="True" />
+                  </Node>
                 </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
                 <Node name="js" expanded="True" />
               </Node>
             </Node>
