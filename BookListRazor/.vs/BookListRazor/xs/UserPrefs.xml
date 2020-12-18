@@ -1,29 +1,23 @@
 ﻿<Properties StartupConfiguration="{2BD14790-7C26-462C-91FB-17373FC63EAA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Edit.cshtml.cs">
     <Files>
       <File FileName="BookListRazor/Pages/BookList/Index.cshtml" Line="47" Column="41" />
-      <File FileName="BookListRazor/Pages/BookList/Index.cshtml.cs" Line="26" Column="1" />
-      <File FileName="BookListRazor/Pages/BookList/Edit.cshtml.cs" Line="28" Column="50" />
-      <File FileName="BookListRazor/Startup.cs" Line="1" Column="1" />
+      <File FileName="BookListRazor/Pages/BookList/Index.cshtml.cs" />
+      <File FileName="BookListRazor/Pages/BookList/Edit.cshtml.cs" Line="37" Column="46" />
+      <File FileName="BookListRazor/Startup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookListRazor" expanded="True">
             <Node name="BookListRazor" expanded="True">
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BookList" expanded="True">
-                  <Node name="Create.cshtml" expanded="True" />
-                  <Node name="Edit.cshtml" expanded="True" />
-                  <Node name="Index.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True">
+                    <Node name="Edit.cshtml.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
-              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

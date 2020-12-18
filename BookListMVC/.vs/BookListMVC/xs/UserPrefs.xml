@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{B104A4A1-7BE8-4F66-AC82-AAC304B2E774}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListMVC/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="BookListMVC/Startup.cs" Line="52" Column="37" />
+      <File FileName="BookListMVC/Controllers/HomeController.cs" Line="22" Column="1" />
+      <File FileName="BookListMVC/Views/Shared/_Layout.cshtml" Line="21" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookListMVC" expanded="True">
+            <Node name="BookListMVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BookListMVC FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BookListMVC PreferredExecutionTarget="/Applications/Opera.app" />
 </Properties>
