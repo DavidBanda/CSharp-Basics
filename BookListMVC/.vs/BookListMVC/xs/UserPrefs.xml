@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="BookListMVC/Controllers/BooksController.cs">
     <Files>
       <File FileName="BookListMVC/Controllers/BooksController.cs" Line="64" Column="1" />
-      <File FileName="BookListMVC/wwwroot/js/bookList.js" Line="20" Column="44" />
-      <File FileName="BookListMVC/Views/Books/Index.cshtml" Line="1" Column="1" />
-      <File FileName="BookListMVC/Views/Books/Upsert.cshtml" Line="8" Column="45" />
-      <File FileName="BookListMVC/Views/Shared/_Layout.cshtml" Line="10" Column="32" />
+      <File FileName="BookListMVC/wwwroot/js/bookList.js" />
+      <File FileName="BookListMVC/Views/Books/Index.cshtml" />
+      <File FileName="BookListMVC/Views/Books/Upsert.cshtml" />
+      <File FileName="BookListMVC/Views/Shared/_Layout.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

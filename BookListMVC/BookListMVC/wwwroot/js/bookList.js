@@ -11,6 +11,10 @@ function loadDataTable() {
             "type": "GET",
             "datatype": "json"
         },
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ],
         "columns": [
             { "data": "name", "width": "20%" },
             { "data": "author", "width": "20%" },
